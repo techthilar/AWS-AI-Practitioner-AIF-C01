@@ -1,11 +1,3 @@
----
-markmap:
-    colorFreezeLevel: 2
-    maxWidth: 500
-    embedAssets: true
-    initialExpandLevel: 2
----
-
 # AWS-AI-Practitioner-AIF-C01
 AWS Certified: AI Practitioner (AIF-C01) Study Materials
 
