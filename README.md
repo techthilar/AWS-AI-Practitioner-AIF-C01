@@ -50,15 +50,15 @@ The plan is sequenced by the five exam domains and weighted toward the heaviest 
 
 | Week | Focus | File |
 |---|---|---|
-| 0 | Cloud-basics primer (optional) | [week-00-cloud-basics-primer.md](weeks/week-00-cloud-basics-primer.md) |
-| 1 | AI/ML Fundamentals (Part 1) + account setup | [week-01-ai-ml-fundamentals-part-1.md](weeks/week-01-ai-ml-fundamentals-part-1.md) |
-| 2 | AI/ML Fundamentals (Part 2) | [week-02-ai-ml-fundamentals-part-2.md](weeks/week-02-ai-ml-fundamentals-part-2.md) |
-| 3 | GenAI Fundamentals (Part 1) | [week-03-genai-fundamentals-part-1.md](weeks/week-03-genai-fundamentals-part-1.md) |
-| 4 | GenAI wrap-up + FM Applications (Part 1) | [week-04-genai-wrapup-and-fm-applications-part-1.md](weeks/week-04-genai-wrapup-and-fm-applications-part-1.md) |
-| 5 | Prompting, RAG & Customization | [week-05-prompting-rag-customization.md](weeks/week-05-prompting-rag-customization.md) |
-| 6 | Fine-tuning & Evaluation + lab day | [week-06-finetuning-and-evaluation.md](weeks/week-06-finetuning-and-evaluation.md) |
-| 7 | Responsible AI + Security/Compliance/Governance | [week-07-responsible-ai-and-security-governance.md](weeks/week-07-responsible-ai-and-security-governance.md) |
-| 8 | Review + mock exams + **exam** | [week-08-review-and-mock-exams.md](weeks/week-08-review-and-mock-exams.md) |
+| 0 | Cloud-basics primer (optional) | [week-00-cloud-basics-primer.md](week-00-cloud-basics-primer.md) |
+| 1 | AI/ML Fundamentals (Part 1) + account setup | [week-01-ai-ml-fundamentals-part-1.md](week-01-ai-ml-fundamentals-part-1.md) |
+| 2 | AI/ML Fundamentals (Part 2) | [week-02-ai-ml-fundamentals-part-2.md](week-02-ai-ml-fundamentals-part-2.md) |
+| 3 | GenAI Fundamentals (Part 1) | [week-03-genai-fundamentals-part-1.md](week-03-genai-fundamentals-part-1.md) |
+| 4 | GenAI wrap-up + FM Applications (Part 1) | [week-04-genai-wrapup-and-fm-applications-part-1.md](week-04-genai-wrapup-and-fm-applications-part-1.md) |
+| 5 | Prompting, RAG & Customization | [week-05-prompting-rag-customization.md](week-05-prompting-rag-customization.md) |
+| 6 | Fine-tuning & Evaluation + lab day | [week-06-finetuning-and-evaluation.md](week-06-finetuning-and-evaluation.md) |
+| 7 | Responsible AI + Security/Compliance/Governance | [week-07-responsible-ai-and-security-governance.md](week-07-responsible-ai-and-security-governance.md) |
+| 8 | Review + mock exams + **exam** | [week-08-review-and-mock-exams.md](week-08-review-and-mock-exams.md) |
 
 ---
 
